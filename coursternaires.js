@@ -9,4 +9,4 @@ console.log(result);
 const printA = () => {
   console.log("A");
 };
-num2 === 5 && printA();
+num2 === 6 && printA();
