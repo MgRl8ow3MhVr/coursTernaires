@@ -10,4 +10,6 @@ const printA = () => {
   console.log("A");
 };
 num2 === 6 && printA();
-// natacha travail 
+// natacha travail
+
+// 2ème modification
